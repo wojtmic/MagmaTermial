@@ -1,0 +1,8 @@
+{"command":{
+    "name": "help",
+    "script": "help.py",
+    "description": "Displays this message.",
+    "arguments": [
+
+    ] 
+}}

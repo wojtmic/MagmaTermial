@@ -1,0 +1,10 @@
+{"command":{
+    "name": "example",
+    "script": "example.py",
+    "description": "Example command. Copy if You wanna create Your own command!",
+    "arguments": [
+        {"value": "arg1"},
+        {"value": "arg2"},
+        {"value": "arg3"}
+    ] 
+}}
