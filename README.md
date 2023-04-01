@@ -5,6 +5,7 @@ To create a command, You need:
 1. Some time
 2. Installed terminal
 3. Python
+
 Creating a command step by step:
 1. Find this folder in terminal location. ![image](https://user-images.githubusercontent.com/84672664/158354820-ca1e4e2c-1f00-4467-b4f5-0cbeda31781d.png)
 2. Go to configs.
